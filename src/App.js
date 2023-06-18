@@ -2,10 +2,10 @@
 import './App.css';
 
 function App(props) {
-  console.log(props);
-  const a = "jude"; 
-  return(props);
 
+  console.log(props);
+  // const subject = props.subject;
+  
 }
 
 export default App;
